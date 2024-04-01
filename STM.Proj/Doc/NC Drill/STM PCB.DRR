@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM PCB.PcbDoc   1.04.2024  15:55:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : STM PCB-RoundHoles.TXT
+ASCII SlotHoles File : STM PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             466       PTH        1756.31mm (69.15inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        253.57mm (9.98inch)
+T3      0.7mm (28mil)                                             Round             4         PTH        38.39mm (1.51inch)
+T4      0.8mm (31mil)                                             Slot              2         PTH        9.60mm (0.38inch)
+T5      0.85mm (33mil)                                            Round             2         PTH        5.00mm (0.20inch)
+T6      0.9mm (35mil)                                             Round             8         PTH        23.44mm (0.92inch)
+T7      1mm (39mil)                                               Round             144       PTH        674.00mm (26.54inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              630
+
+Total Processing Time (hh:mm:ss) : 00:00:00

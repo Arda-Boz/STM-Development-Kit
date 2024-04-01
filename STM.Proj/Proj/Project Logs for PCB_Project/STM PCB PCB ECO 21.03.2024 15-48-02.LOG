@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=LD2-2
+Change Class Name : Old Net Name=Designator New Net Name=SDRAM
+Added Class: Name=LCD
+Added Class: Name=MCU
+Added Class: Name=MEMS
+Added Class: Name=ST-LINK
+Added Class: Name=USB

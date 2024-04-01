@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=T_JTCK Pin=SB14-1
+Removed Pin From Net: NetName=T_JTMS Pin=SB17-1
+Removed Member From Class: ClassName=ST-LINK Member=SB14
+Removed Member From Class: ClassName=ST-LINK Member=SB17
+Added Pin To Net: NetName=T_JTCK Pin=SB15-1
+Added Pin To Net: NetName=T_JTMS Pin=SB18-1
